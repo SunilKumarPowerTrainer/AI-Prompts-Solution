@@ -1,6 +1,7 @@
 # AI-Prompts-Solution
 
-Ready to use solution
+Ready to use solution.
+
 Downlaod and Import this solution
 
 
